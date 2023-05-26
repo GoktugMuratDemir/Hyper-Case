@@ -27,7 +27,7 @@ Proje içerisinde aşağıdaki componentler oluşturulmuştur ve ilgili parametr
 ## Başlangıç
 
 1. Projenin klonunu alın: `git clone https://github.com/kullanici/proje.git`
-2. Proje dizinine gidin: `cd proje`
+2. Proje dizinine gidin: `cd hyper-case`
 3. Gerekli bağımlılıkları yükleyin: `npm install`
 4. Projeyi çalıştırın: `npm run dev`
 
